@@ -1,2 +1,2 @@
 # estatein-real-estate-website
-A real estate website built with react and vite.js
+A real estate website built with react, tailwind css and vite.js
